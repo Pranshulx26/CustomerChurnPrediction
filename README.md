@@ -1,4 +1,5 @@
 # Telco Customer Churn Prediction
+![churn image](churn.webp)
 
 **Problem Statement:**
 
